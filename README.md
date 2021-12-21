@@ -8,7 +8,7 @@ advanced solidity homework
 ## After coding is complete, compile the contract...
 
 
-![krbylogo](images/compiling_contract.png)
+![krbylogo](PupperCoin/images/compiling_contract.png)
 
 
 ## After inputing the appropriate information, deploy the contract...
