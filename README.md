@@ -14,25 +14,25 @@ advanced solidity homework
 ## After inputing the appropriate information, deploy the contract...
 
 
-![krbylogo](images/deploying_contract.png)
+![krbylogo](PupperCoin/images/deploying_contract.png)
 
 
 ## Confirm the contract has been deployed...
 
-![krbylogo](images/contact_deployment.png)
+![krbylogo](PupperCoin/images/contact_deployment.png)
 
 
 ## Once the contract has been deployed, toggle the contact from the deployer to the actual crowdsale...
 
 
-![krbylogo](images/PupperCoin_crowdsale.png)
+![krbylogo](PupperCoin/images/PupperCoin_crowdsale.png)
 
 
 ## Test the crowdsale by sending test ETH to a different address...
 
 
-![krbylogo](images/sending_test_eth.png)
+![krbylogo](PupperCoin/images/sending_test_eth.png)
 
 
 ## Finally, Check the transaction history to confirm the contract was created successfully!
-![krbylogo](images/Contract_info.png)
+![krbylogo](PupperCoin/images/Contract_info.png)
