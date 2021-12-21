@@ -36,4 +36,4 @@ advanced solidity homework
 
 ## Finally, Check the transaction history to confirm the contract was created successfully!
 
-![krbylogo](PupperCoin/images/Contract_info.png)
+![krbylogo](PupperCoin/images/Contact_info.png)
