@@ -1,8 +1,6 @@
 # Advanced Solidity
 
-## After coding is complete, compile the contract...
-
-Deploy compiled code in Remix
+## After coding is complete, compile the contract then deploy compiled code in Remix
 
 ![krbylogo](PupperCoin/images/compiling_contract.png)
 
