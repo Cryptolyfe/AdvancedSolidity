@@ -1,5 +1,4 @@
-# AdvancedSolidity
-advanced solidity homework 
+# Advanced Solidity
 
 <br />
 <br />
@@ -7,6 +6,7 @@ advanced solidity homework
 
 ## After coding is complete, compile the contract...
 
+Deploy compiled code in Remix
 
 ![krbylogo](PupperCoin/images/compiling_contract.png)
 
