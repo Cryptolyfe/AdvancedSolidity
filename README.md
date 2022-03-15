@@ -1,6 +1,5 @@
 # Advanced Solidity
-<br />
-<br />
+
 ## After coding is complete, compile the contract...
 
 Deploy compiled code in Remix
