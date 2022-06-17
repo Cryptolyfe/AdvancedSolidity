@@ -32,4 +32,4 @@
 
 ![krbylogo](PupperCoin/images/Contact_info.png)
 
-## Success!!!  
+## Success! You have deployed a crowdsale to initiate an ERC20 token!
